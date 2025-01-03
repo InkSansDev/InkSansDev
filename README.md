@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suppygames/suppygames/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/suppygames/suppygames/blob/output/github-contribution-grid-snake.gif)
 
 ###
