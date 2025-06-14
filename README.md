@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is InkDeveloper and I'm a Ukraine</h2>
+<h2 align="left">Hi 👋! My name is InkDeveloper</h2>
 
 ###
 
